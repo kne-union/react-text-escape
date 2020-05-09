@@ -1,4 +1,4 @@
-# reactTextEscape
+# ReactTextEscape
 显示多行文本的换行符
 ```shell script
 npm i @kne/react-text-escape
